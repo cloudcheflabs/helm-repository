@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  dataroastersparkoperator:
+  - apiVersion: v2
+    appVersion: v3.0.3
+    created: "2022-06-24T04:47:13.875589385Z"
+    description: dataroaster spark operator
+    digest: 9030d3a9689afb6dcc88152fdba059be26ae34666a1ca58ba95c5425e57b79f0
+    name: dataroastersparkoperator
+    urls:
+    - dataroastersparkoperator-v1.0.1.tgz
+    version: v1.0.1
+generated: "2022-06-24T04:47:13.875127642Z"
