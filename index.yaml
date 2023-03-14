@@ -3,7 +3,7 @@ entries:
   dataroaster-spark-operator:
   - apiVersion: v2
     appVersion: v3.0.3
-    created: "2023-03-14T00:14:43.097689795Z"
+    created: "2023-03-14T13:33:57.209503188Z"
     description: dataroaster spark operator
     digest: 76bdacc6bf24d0d0a69c201408734320aee52b614df65fe81d25f1195bfaa87a
     name: dataroaster-spark-operator
@@ -13,16 +13,16 @@ entries:
   dataroastersparkoperator:
   - apiVersion: v2
     appVersion: v3.0.4
-    created: "2023-03-14T00:14:43.099497647Z"
+    created: "2023-03-14T13:33:57.211138965Z"
     description: dataroaster spark operator
-    digest: ad995cca64a5b04b2cc410f727473782c6a61b3d5e8298557456b056146fb943
+    digest: 8fc6ecb31fdb3a98bae76511eac6ecd4209bb1834f36353a8ee58ce018a20c6f
     name: dataroastersparkoperator
     urls:
     - dataroastersparkoperator-v1.1.0.tgz
     version: v1.1.0
   - apiVersion: v2
     appVersion: v3.0.4
-    created: "2023-03-14T00:14:43.098772916Z"
+    created: "2023-03-14T13:33:57.210848514Z"
     description: dataroaster spark operator
     digest: b323b010e10988c5467aacc27074654a3efaa540fb65dfcfd5349aaed2efdad2
     name: dataroastersparkoperator
@@ -31,11 +31,11 @@ entries:
     version: v1.0.2
   - apiVersion: v2
     appVersion: v3.0.3
-    created: "2023-03-14T00:14:43.097972741Z"
+    created: "2023-03-14T13:33:57.210166724Z"
     description: dataroaster spark operator
     digest: 2be87796450bd4c6d3a63aeadfa0a46d4150e1f081aeea66ba8c35ba4d056c6d
     name: dataroastersparkoperator
     urls:
     - dataroastersparkoperator-v1.0.1.tgz
     version: v1.0.1
-generated: "2023-03-14T00:14:43.097242718Z"
+generated: "2023-03-14T13:33:57.208604606Z"
