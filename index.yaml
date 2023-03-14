@@ -3,11 +3,11 @@ entries:
   dataroastersparkoperator:
   - apiVersion: v2
     appVersion: v3.0.4
-    created: "2023-03-14T00:13:46.610323502Z"
+    created: "2023-03-14T00:14:00.882565006Z"
     description: dataroaster spark operator
-    digest: b241090522ce03133f9b8a6c394fe393c12a031ed51b3afd704e7ca53e02d9c7
+    digest: 16e1bdafaa6d8be5693aabc9b6881b8aa1b362203a408d920921fdb3f33b5686
     name: dataroastersparkoperator
     urls:
     - dataroastersparkoperator-v1.1.0.tgz
     version: v1.1.0
-generated: "2023-03-14T00:13:46.609914847Z"
+generated: "2023-03-14T00:14:00.882161121Z"
